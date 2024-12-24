@@ -85,6 +85,6 @@ Temperature (°C) vs Resistance (Ω):
 The project successfully enhances workplace safety, energy efficiency, and environmental sustainability in the nut and bolt manufacturing factory. Key innovations include renewable solar energy, automated lighting, temperature control, and smoke detection. This scalable model aligns with SDGs and sets a benchmark for future industrial sustainability efforts contributing sustainable goal 7,9,11,13.
 
 ## Credits
-* Pictures & Circcuits :Harsha-m-r
+* Pictures & Circuits :Harsha-m-r
 - Checkout for more info :https://github.com/Harsha-m-r/Multi-Sensor-Environmental-Management-System.git
 
